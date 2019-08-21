@@ -1,4 +1,4 @@
-## Build Azure Fucntion Module for Edge
+## Build Azure Function Module for Edge
 
 ### Install .NET Core
 
